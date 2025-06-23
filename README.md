@@ -32,9 +32,7 @@
 - Web Development (Full Stack)
 
 ## 📫 Let’s Connect
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin) *(replace with your LinkedIn if you have one)*
-- [Email](mailto:your.email@example.com) *(replace with your email)*
+- [Email](mailto:mohammadimahdiofficial@gmail.com)
 
 ---
 
