@@ -1,37 +1,22 @@
 # Mahdi Mohammadi
 
-Electrical Engineering student working on digital hardware and computer vision.
+Electrical Engineering student interested in **digital hardware** and **computer vision**.
 
-My hardware work focuses on RTL design, verification, processor architecture, and FPGA-based systems. On the software side, I work on computer vision and image processing, mostly using Python.
+I like working close to the implementation — understanding how things work, building them from the ground up, and testing the assumptions along the way.
 
-## Hardware
+On the hardware side, I work with digital design, RTL, verification, and FPGA systems.
 
-* RTL design and verification with SystemVerilog
-* Processor and digital system design
-* FPGA development
-* Verification and EDA automation
+On the vision side, I explore image processing and learning-based approaches to visual problems.
 
-## Computer Vision
+A lot of my work starts with a simple question: **how does this actually work?**
 
-* Image processing
-* Computer vision
-* Deep learning for visual problems
-* Python-based experimentation and tooling
+### What I'm working on
 
-## Selected Projects
-
-**RISC-V Processor**
-A pipelined RV32I processor implemented in SystemVerilog, with hazard handling and verification.
-
-**AXI SRAM Controller**
-An AXI4-Lite SRAM controller developed as a practical RTL and verification project.
-
-**Computer Vision Project**
-A selected computer vision project demonstrating the complete path from experimentation to evaluation.
-
-**Hardware × Vision Project**
-Work exploring the implementation of vision algorithms on digital hardware.
+* Digital design and verification with SystemVerilog
+* Computer vision and image processing
+* Python tooling and automation
+* FPGA development and hardware experiments
 
 ---
 
-I use this GitHub to document things I build, experiments that work, and the engineering decisions behind them.
+Still building, breaking, and learning.
