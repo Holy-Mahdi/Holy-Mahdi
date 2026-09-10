@@ -1,22 +1,36 @@
 # Mahdi Mohammadi
 
-Electrical Engineering student interested in **digital hardware** and **computer vision**.
+`EE student / hardware / vision`
 
-I like working close to the implementation — understanding how things work, building them from the ground up, and testing the assumptions along the way.
+I work around two things I find endlessly interesting:
 
-On the hardware side, I work with digital design, RTL, verification, and FPGA systems.
+**making machines compute**
+and
+**making machines see.**
 
-On the vision side, I explore image processing and learning-based approaches to visual problems.
+```text
+             ┌──────────────┐
+ pixels ────►│              │
+             │   compute    │────► decisions
+ signals ───►│              │
+             └──────────────┘
+                    │
+             hardware matters
+```
 
-A lot of my work starts with a simple question: **how does this actually work?**
+### /work
 
-### What I'm working on
+**hardware**
+RTL · verification · FPGA · digital systems
 
-* Digital design and verification with SystemVerilog
-* Computer vision and image processing
-* Python tooling and automation
-* FPGA development and hardware experiments
+**vision**
+image processing · computer vision · deep learning
 
----
+**tools**
+SystemVerilog · Python · C/C++
 
-Still building, breaking, and learning.
+### /now
+
+Trying to understand systems one layer deeper than I need to.
+
+`mahdi@github:~$ █`
